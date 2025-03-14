@@ -7,7 +7,7 @@ I enjoy exploring how software can solve real-world problems and improve lives.
 
 ### 🌱 What I’m Currently Learning  
 I’m currently diving into **[Javascript/Typescript, Java]**.  
-I’m also improving my skills in **full-stack development**, focusing on both **front-end** (e.g., React, UI/UX design) and **back-end** (e.g., Node.js, databases, APIs).  
+I’m also improving my skills in **full-stack development**, focusing on both **front-end** (e.g., React, Next) and **back-end** (e.g., Node.js, databases, APIs, Spring).  
 ### 💞️ Collaboration  
 I’m looking to collaborate on **open-source projects** or any initiatives related to **[web development]**.  
 If you have an exciting project or idea, feel free to reach out!  
